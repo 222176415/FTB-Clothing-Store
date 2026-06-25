@@ -1,7 +1,7 @@
 # Payload Ecommerce Template
 
 This template is in **BETA**.
-
+An e-commerce wesbite for a local store
 This is the official [Payload Ecommerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready ecommerce website.
 
 This template is right for you if you are working on building an ecommerce project or shop with Payload.
